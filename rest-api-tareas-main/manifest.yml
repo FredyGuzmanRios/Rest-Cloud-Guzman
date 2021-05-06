@@ -1,0 +1,5 @@
+---
+applications:
+- name: Tarea-Api-Fredy
+  random-route: true
+  memory: 128M
